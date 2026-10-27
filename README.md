@@ -1,1 +1,1 @@
-# customer-trends-data-analysis-SQL-Python-PowerBI
+# Customer-trends-data-analysis-SQL-Python-PowerBI
