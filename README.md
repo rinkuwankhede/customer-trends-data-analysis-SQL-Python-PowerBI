@@ -70,7 +70,7 @@ Dataset: 3,900 customer purchases, 18 columns (age, gender, category, item, purc
 
 ## 📊 Dashboard Walkthrough
 
-> *(add your dashboard screenshot here: `![Dashboard](images/dashboard.png)`)*
+![Customer Shopping Behavior Dashboard](https://github.com/rinkuwankhede/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/Customer%20Shopping%20Behavior%20Dashboard.png)
 
 1. **Header + KPI cards (top)** – quick health check: **3,900 customers**, **average purchase $59.76**, **average rating 3.75 / 5**
 2. **Left filter panel** – slice the whole dashboard by subscription, gender, category and shipping type
