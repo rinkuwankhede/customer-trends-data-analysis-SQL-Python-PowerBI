@@ -90,7 +90,7 @@ Dataset: 3,900 customer purchases, 18 columns (age, gender, category, item, purc
 - Spend per purchase is almost the same for both: **$59.54 (male) vs $60.25 (female)** → male revenue is higher because there are *more male customers*, not because they spend more
 
 **Categories**
-- **Clothing is the star: 44.7% of revenue** ($104K), then **Accessories 31.8%**, Footwear 15.5%, Outerwear only 7.9%
+- **Clothing is the star , then Accessories , Footwear , Outerwear 
 - Top sellers: Blouse and Pants (Clothing, 171 orders each), Jewelry (Accessories, 171)
 
 **Subscription**
